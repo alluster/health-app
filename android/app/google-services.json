@@ -1,0 +1,29 @@
+{
+	"project_info": {
+		"project_number": "756931665700",
+		"project_id": "olo-app-ui-4fc21",
+		"storage_bucket": "olo-app-ui-4fc21.appspot.com"
+	},
+	"client": [
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:756931665700:android:b00df92d59765dc3409db1",
+				"android_client_info": {
+					"package_name": "com.example.healthapp"
+				}
+			},
+			"oauth_client": [],
+			"api_key": [
+				{
+					"current_key": "AIzaSyDFHMMpTdLighxAg3fr7enhKyJATyBPKPE"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+					"other_platform_oauth_client": []
+				}
+			}
+		}
+	],
+	"configuration_version": "1"
+}
